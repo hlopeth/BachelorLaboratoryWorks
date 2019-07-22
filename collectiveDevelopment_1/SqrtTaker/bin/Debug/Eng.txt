@@ -1,0 +1,8 @@
+Sqrt Taker
+Menu
+Settings
+Accuracy
+Language
+Documentation
+Apply
+Exit

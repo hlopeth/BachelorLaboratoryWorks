@@ -1,0 +1,10 @@
+const Pi := 3.1415;
+ 
+var 
+  r: real; // радиус круга
+  S: real; // площадь круга
+ 
+begin
+  r := 12.3;
+  S := Pi * r * r;
+end.

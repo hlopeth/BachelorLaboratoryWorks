@@ -1,0 +1,111 @@
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe.config
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.pdb
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csprojResolveAssemblyReference.cache
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Properties.Resources.resources
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.GenerateResource.cache
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.CoreCompileInputs.cache
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.exe
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.pdb
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.MainForm.resources
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.CopyComplete
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Symbolics.dll
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Symbolics.xml
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Symbolics.dll.config
+J:\Универ\3 курс\3 триместр\МКРПС\Квадратный корень\SqrtTaker\bin\Debug\SqrtTaker.exe.config
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe.config
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.pdb
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.dll
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Symbolics.dll
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.xml
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Symbolics.xml
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csprojResolveAssemblyReference.cache
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.MainForm.resources
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Properties.Resources.resources
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Settings.resources
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.GenerateResource.Cache
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.exe
+C:\Users\Mazilaa\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.pdb
+D:\VSProgects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Settings.resources
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe.config
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.pdb
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.MainForm.resources
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Properties.Resources.resources
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Settings.resources
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.GenerateResource.Cache
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.exe
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.pdb
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csprojResolveAssemblyReference.cache
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.xml
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.xml
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.xml
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.xml
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Миша\Documents\GitHub\collectiveDevelopment_1\SqrtTaker\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe.config
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.exe
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\SqrtTaker.pdb
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsec.xml
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FParsecCS.xml
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\FSharp.Core.xml
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.xml
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\MathNet.Numerics.FSharp.xml
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\cs\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\de\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\en\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\es\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\fr\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\it\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\ja\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\ko\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\pl\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\pt-BR\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\ru\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\tr\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csprojResolveAssemblyReference.cache
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.MainForm.resources
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Properties.Resources.resources
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.Settings.resources
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.GenerateResource.Cache
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.csproj.CoreCompileInputs.cache
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.exe
+D:\VS progects\collectiveDevelopment_1\SqrtTaker\obj\Debug\SqrtTaker.pdb

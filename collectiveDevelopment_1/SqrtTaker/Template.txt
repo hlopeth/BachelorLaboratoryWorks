@@ -1,0 +1,13 @@
+Form name
+Menu
+Settings
+Accuracy
+Language
+Documentation
+Apply
+Exit
+TakeSQRT
+Original number
+Root
+Empty Str
+Invalid input

@@ -1,0 +1,48 @@
+program example;
+type re = record
+	a,c: integer;
+	b: real;
+end;
+re2 = record
+	q: integer;
+	d: re;
+end;
+	
+
+var h,g,a,las,len,j,F, i:integer;
+index: integer;
+index2: re2;
+qwe: re;
+
+  
+begin
+  for i=1 to 5 do
+  index2.d.b := a;
+  index2.d.bas := a;
+  a:=index2.d.a;
+  a:=index2.d.xcv;
+  a:=qwe;
+  while (a >= b) do
+    begin
+      repeat
+      g:=d;    
+      f:=g;    
+      f.a.b.c:=2;    
+      f:=g;    
+            
+(* сложное выражение: *)
+      F:=5*h-345+(len*(54/g - 24*4) - j + 8/(las/(23 + f)-index));
+                 
+      until (a<>b);
+	  
+	  case a of
+	  1,2,3: a:=1;
+	  5: a:=3;
+	  
+	  with a do
+		begin
+			a:=2;
+			b:=3;
+		end
+	end           
+end.

@@ -1,0 +1,120 @@
+{
+  "_comment": "root",
+  "sub":[
+    {
+      "_comment": "program",
+		  "optional": true,
+		  "repeatable": false,
+		  "sub": [
+		    {
+		      "_comment": "PROGRAM",
+		      "code": 0
+		    },
+		  	{
+		  	  "_comment": "IDENT",
+		  	  "code": 0
+		  	},
+		  	{
+		  	  "_comment": "SEMI",
+		  	  "code": 0
+		  	},
+		  	{
+		  	  "_comment": "block",
+		  	  "optional": false,
+		  	  "sub": [
+		  	    {
+		  	      "_comment": "constant definition part",
+		  	      "optional": true,
+		  	      "repeatable": false,
+		  	      "sub":[
+		  	        {
+		  	          "_comment": "CONST",
+		  	          "code": 0
+		  	        },
+		  	        {
+		  	          "_comment": "constant definition",
+		  	          "optional": false,
+		  	          "repeatable": true,
+		  	          "sub": [
+		  	            {
+		  	              "_comment": "IDENT",
+		  	              "code": 0
+		  	            },
+		  	            {
+		  	              "_comment": "EQUAL",
+		  	              "code": 0
+		  	            },
+		  	            {
+		  	              "_comment": "NUMBER",
+		  	              "code": 0
+		  	            },
+		  	            {
+		  	              "_comment": "SEMI",
+		  	              "code": 0
+		  	            }
+		  	            ]
+		  	        }
+		  	        ]
+		  	    },
+		  	    {
+		  	      "_comment": "variable declaration part",
+		  	      "optional": true,
+		  	      "repeatable": false,
+		  	      "sub": [
+		  	        {
+		  	          "_comment": "VAR",
+		  	          "code": 0
+		  	        },
+		  	        {
+		  	          "_comment": "variable declaration",
+		  	          "optional": false,
+		  	          "repetable": true,
+		  	          "sub": [
+		  	            {
+		  	              "_comment": "IDENT",
+		  	              "code": 0
+		  	            },
+		  	            {
+		  	              "_comment": "COLON",
+		  	              "code": 0
+		  	            },
+		  	            {
+		  	              "_comment": "IDENT",
+		  	              "code": 0
+		  	            }
+		  	            ]
+		  	        }
+		  	        ]
+		  	    },
+		  	    {
+		  	      "_comment": "statement part",
+		  	      "optional": false,
+		  	      "repeatable": false,
+		  	      "sub": [
+		  	        {
+		  	          "_comment": "BEGIN",
+		  	          "code": 0
+		  	        },
+		  	        {
+		  	          "_comment": "statement",
+		  	          "optional": true,
+		  	          "repetable": true,
+		  	          "sub":[]
+		  	        },
+		  	        {
+		  	          "_comment": "END",
+		  	          "code": 0
+		  	        }
+		  	        ]
+		  	    }
+		  	    ]
+		  	},
+		  	{
+		  	  "_comment": "DOT",
+		  	  "code": 0
+		  	}
+		  ]
+	  }
+	
+]}
+

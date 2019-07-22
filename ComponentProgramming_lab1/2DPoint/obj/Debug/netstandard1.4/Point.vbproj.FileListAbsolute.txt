@@ -1,0 +1,8 @@
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\bin\Debug\netstandard1.4\Point.deps.json
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\bin\Debug\netstandard1.4\Point.dll
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\bin\Debug\netstandard1.4\Point.pdb
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\obj\Debug\netstandard1.4\Point.vbproj.CoreCompileInputs.cache
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\obj\Debug\netstandard1.4\Point.AssemblyInfo.vb
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\obj\Debug\netstandard1.4\Point.dll
+c:\users\hlopeth\source\repos\2DPoint\2DPoint\obj\Debug\netstandard1.4\Point.pdb
+C:\Users\hlopeth\source\repos\2DPoint\2DPoint\obj\Debug\netstandard1.4\Point.vbprojResolveAssemblyReference.cache

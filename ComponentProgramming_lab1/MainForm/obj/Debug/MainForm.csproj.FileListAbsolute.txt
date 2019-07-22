@@ -1,0 +1,14 @@
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\MainForm.exe
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\MainForm.pdb
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.MainForm.resources
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.exe
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.pdb
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\obj\Debug\MainForm.Point_Constructor.resources
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\ClassLibrary2.dll
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\ClassLibrary2.pdb
+C:\Users\hlopeth\source\repos\2DPoint\MainForm\bin\Debug\ClassLibrary2.xml

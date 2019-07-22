@@ -1,0 +1,9 @@
+Sqrt Taker
+Menu
+Settings
+Accuracy
+Language
+Documentation
+Apply
+Exit
+An empty string was introduced

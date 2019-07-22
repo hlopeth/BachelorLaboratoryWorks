@@ -1,0 +1,29 @@
+program p;
+
+const Pi = -123.32; A = 234;
+var qwe, dsa : real;
+
+begin
+repeat
+	f := 2;
+until 2>3
+hgfhgf := 2;
+begin f := 3 end
+if 2 <= 3 then f := 3;
+if 3 then 
+    f := 4
+else 
+    begin 
+	f:=5;
+	f:=10;
+	f - 213;
+    end
+while 3 do
+	if 3 then 
+		f:=4;
+	else 
+	begin 
+		f:=5;
+		f:= 10;
+	end
+end.

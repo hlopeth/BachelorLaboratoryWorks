@@ -1,0 +1,39 @@
+#version 330 core
+
+in vec3 v_norm;
+in vec3 v_point;
+in vec2 v_texCoord;
+uniform sampler2D texture1;
+uniform sampler2D texture2;
+
+layout(location = 0) out vec4 o_color;
+
+
+void main()
+{
+    float alfa = 0.6;
+    vec4 texColor1 = texture(texture1, v_texCoord);
+    vec4 texColor2 = texture(texture2, v_texCoord);
+    vec4 resultTexColor = alfa*texColor1 + (1-alfa)*texColor2;
+
+    vec3 ambientColor = vec3(0.1);
+
+    vec3 l =  vec3(0.0,2.0,-8.5) - v_point;
+    l = normalize(l);
+    float d = dot(normalize(v_norm),l);
+    d = max(d,0.0);
+    vec3 diffColor = d*vec3(1.0,1.0,1.0);
+
+    vec3 viewDir = vec3(0.0) - v_point;
+    viewDir = normalize(viewDir);
+    vec3 reflectDir = reflect(-l,normalize(v_norm));
+    vec3 halfDir = normalize(l+viewDir);
+    float spec = dot(halfDir, normalize(v_norm));
+    spec = max(spec,0.0);
+    vec3 specColor = pow(spec,1.0) * vec3(1.0,1.0,1.0);
+
+    vec3 resultColor = (ambientColor + specColor + diffColor) * resultTexColor.rgb;
+
+
+   o_color = vec4(resultColor, 1.0);
+}

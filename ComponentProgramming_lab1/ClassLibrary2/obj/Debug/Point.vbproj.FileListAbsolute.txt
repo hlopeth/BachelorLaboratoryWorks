@@ -1,0 +1,9 @@
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\bin\Debug\ClassLibrary2.xml
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\ClassLibrary2.Resources.resources
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\Point.vbproj.GenerateResource.Cache
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\Point.vbproj.CoreCompileInputs.cache
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\ClassLibrary2.xml
+C:\Users\hlopeth\source\repos\2DPoint\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

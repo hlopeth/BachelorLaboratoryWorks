@@ -1,0 +1,15 @@
+SQRT
+English
+SqrtTerr
+Menu
+Settings
+Accuracy
+Language
+User's manual
+OK
+Exit
+Take the square root
+Original expression
+The root of the expression
+An empty string was introduced
+Invalid input
